@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "566916712394",
+    "firebase_url": "https://catalogopeliculas-24793-default-rtdb.firebaseio.com",
+    "project_id": "catalogopeliculas-24793",
+    "storage_bucket": "catalogopeliculas-24793.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566916712394:android:11f582ed62da728ec87133",
+        "android_client_info": {
+          "package_name": "com.pruebadesarrollo.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD90t1dQ71XH2HmuV5sFEpjomWtjDiogu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
